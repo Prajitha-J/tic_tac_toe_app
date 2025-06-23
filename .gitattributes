@@ -3,3 +3,4 @@
 *.spec linguist-detectable=false
 *.html linguist-detectable=false
 *.css linguist-detectable=false
+*.TeX linguist-detectable=false
